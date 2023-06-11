@@ -1,2 +1,2 @@
-# Hellpo_World
+# Hello_World
 Timski zadatak UIP
